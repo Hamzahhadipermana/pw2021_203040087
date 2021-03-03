@@ -9,7 +9,7 @@
 <html lang="en">
 
 <head>
-    <title>Latihan1c_203040083</title>
+    <title>Latihan1c_203040087</title>
     <style>
         div {
             background-color: salmon;
